@@ -9,6 +9,9 @@
 
 간단하게 그려본 결과 최근 2주간의 금융 IT 키워드는 다음과 같았다.
 
+
+(시간관계상 전처리를 많이 생략하여 특정 키워드들을 추출하진 못했다)
+
 ![image](https://user-images.githubusercontent.com/49031232/208027494-9120f350-aed8-43af-ba26-18932c516af8.png)
 
 ## 뉴스_5개년_wordcloud.ipynb
